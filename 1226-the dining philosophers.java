@@ -1,4 +1,4 @@
-1226 -THE DINING PHILOSOPHERS                                                                 import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantLock;
 
 class DiningPhilosophers {
 
